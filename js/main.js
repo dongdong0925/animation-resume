@@ -92,6 +92,12 @@ var md = `
 # 技能介绍
 
 熟悉 JavaScript CSS
+熟练使用MVVM框架Vue,熟练使用Bootstrap等框架
+熟悉Linux基本操作命令
+熟练掌握开发编辑器Vim以及版本控制工具Git等
+熟悉npm等前端工程化、自动化工具的使用；
+了解Node.js，能使用简单的Webserver
+
 
 # 项目介绍
 
