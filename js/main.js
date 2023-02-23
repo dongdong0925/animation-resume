@@ -91,19 +91,21 @@ var md = `
 
 # 技能介绍
 
-熟悉 JavaScript CSS
+熟链 JavaScript CSS HTML
 熟练使用MVVM框架Vue,熟练使用Bootstrap等框架
-熟悉Linux基本操作命令
 熟练掌握开发编辑器Vim以及版本控制工具Git等
+熟悉BootStrap、layui等PC端框架;
 熟悉npm等前端工程化、自动化工具的使用；
-了解Node.js，能使用简单的Webserver
+熟悉常见的Swiper /echart /artTemplate等功能插件
+解前端主流框架Vue.js/node.js后端技术和express框架，熟悉CommonJS规范;
 
 
 # 项目介绍
 
-1. 无缝轮播
+1. 大事件后台管理系统项目 
 2. 键盘网站导航
-3. PC版简易画板
+3.  数据可视化项目
+4.  小兔鲜儿电商平台首页和个人中心页面
 
 # 联系方式
 
